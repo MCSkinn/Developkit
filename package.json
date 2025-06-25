@@ -1,0 +1,22 @@
+{
+    "name": "@mcskinn/.workspace-developkit",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://www.inkore.net/mcskinn",
+    "repository": 
+    {
+        "type": "git",
+        "url": "https://github.com/MCSkinn/Developkit.git"
+    },
+    "engines": 
+    {
+        "node": ">=22.0.0",
+        "pnpm": ">=10.0.0"
+    },
+    "scripts": 
+    {
+    },
+    "author": "",
+    "license": "SEE LICENSE IN ./LICENSE.md"
+}

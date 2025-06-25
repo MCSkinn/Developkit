@@ -1,0 +1,6 @@
+{
+    "vsicons.associations.folders":
+    [
+        { "icon": "template", "extensions": [ "samples" ], "format": "svg" }
+    ],
+}
